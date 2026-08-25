@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xianbigen.github.io/heiliaowangz/sitemap.xml
